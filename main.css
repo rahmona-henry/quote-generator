@@ -1,4 +1,9 @@
-.section {
+html {
+background-size: cover;
+color: black;
+}
+
+#section {
   width: 200px;
   height:200px;
 }
