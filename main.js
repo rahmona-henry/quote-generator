@@ -7,7 +7,7 @@ $(document).ready(function() {
 
   function reply_click(){
     var random = Math.floor(Math.random() * quotes.length)
-    document.getElementById('section').innerHTML = quotes[random]
+    document.getElementById('<p>').innerHTML = quotes[random]
   }
 
   button.onclick = function() { reply_click(); }
