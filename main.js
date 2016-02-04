@@ -12,12 +12,16 @@ $(document).ready(function() {
 
   button.onclick = function() { reply_click(); }
 
-twttr.widgets.createShareButton(
-  "https:\/\/dev.twitter.com\/web\/tweet-button",
-  document.getElementById("section")
+$(document).ready(function () {
+  
+  function randomColor() {
+    return '#' + Math.random().toString(16).slice(2, 8);
+  };
 
- 
-);
+  $("#button").on("click", function () {
+    $('body').css('background', randomColor());
+  });
+});
 
 
 
