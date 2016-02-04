@@ -1,6 +1,7 @@
 $(document).ready(function() {
 
   var quotes = ['hello', 'goodbye', 'dia duit', 'slan']; 
+  
 
   var button=document.getElementById('qbutton');
 
