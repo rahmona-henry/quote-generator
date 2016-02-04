@@ -14,12 +14,12 @@ color: white;
  }
 
  #button {
-
+margin: 10px auto;
 
  }
 
  #display {
 text-align:center;
 padding:130px;
-margin: 10px auto;
+margin:auto;
  }
