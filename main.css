@@ -1,9 +1,14 @@
 html {
-background-size: cover;
-color: black;
+color: white;
 }
 
+
 #section {
-  width: 200px;
-  height:200px;
-}
+ width: 310px;
+ height: 460px;
+ margin: 10px auto;  /*centers the calculator in the browser window*/
+ padding:5px;
+ background-color:#FFA500;
+ border: 3px solid black;
+ border-radius: 10px;
+ }
