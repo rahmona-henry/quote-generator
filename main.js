@@ -3,7 +3,7 @@ $(document).ready(function() {
   var quotes = ['hello', 'goodbye', 'dia duit', 'slan']; 
   
 
-  var button=document.getElementById('quote');
+  var button=document.getElementById('button button-primary');
 
   function reply_click(){
     var random = Math.floor(Math.random() * quotes.length)
