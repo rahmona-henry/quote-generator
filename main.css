@@ -4,8 +4,8 @@ color: white;
 
 
 #section {
- width: 310px;
- height: 460px;
+ width: 300px;
+ height: 300px;
  margin: 10px auto;  /*centers the calculator in the browser window*/
  padding:5px;
  background-color:white;
@@ -18,9 +18,7 @@ color: white;
 
  }
 
- p {
-text-indent: 50px;
-text-align:justify;
-letter-spacing:3px;
-
+ #display {
+text-align:center;
+padding:130px;
  }
