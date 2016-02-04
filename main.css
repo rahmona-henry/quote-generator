@@ -8,7 +8,7 @@ color: white;
  height: 460px;
  margin: 10px auto;  /*centers the calculator in the browser window*/
  padding:5px;
- background-color:#FFA500;
+ background-color:white;
  border: 3px solid black;
  border-radius: 10px;
  }
