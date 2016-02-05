@@ -10,8 +10,8 @@ background-color: white;
 #button{
 margin:auto;
 display:block;
-//*position:absolute;
-    top:50%;*//
+position:absolute;
+    top:50%;
 
  }
 #main {
