@@ -1,18 +1,7 @@
 html {
-color: white;
+background-color: white;
+
 }
-
-
-
-/*#displaybox{
- width: 500px;
- height: 300px;
- margin: 10px auto;  /*centers the calculator in the browser window*/
- /padding:5px;
- background-color:white;
- border: 3px solid black;
- border-radius: 10px;
- }
 
 #button{
 margin:10px auto;
