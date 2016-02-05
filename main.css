@@ -1,7 +1,10 @@
 html {
 background-color: white;
 
-
+}
+.wrapper {
+    text-align: center;
+}
 
 
 #button{
