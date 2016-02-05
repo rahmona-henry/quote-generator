@@ -13,7 +13,7 @@ position:absolute;
     top:50%;
 
  }
-p#main {
+#main {
   text-align: center;
   width: 50%;
   margin: auto;
@@ -27,7 +27,7 @@ h1 {
   text-shadow: 0px 0px 15px #fff;
 }
 
-p#quote {
+#quote {
   height: auto;
   width: auto;
   padding: 1em;
