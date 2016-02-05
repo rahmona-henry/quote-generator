@@ -9,11 +9,11 @@ background-color: white;
 
 #button{
 margin:auto;
-position:absolute;
-    top:50%;
+/*position:absolute;
+    top:50%;*/
 
  }
-p#main {
+#main {
   text-align: center;
   width: 50%;
   margin: auto;
