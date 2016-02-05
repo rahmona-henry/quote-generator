@@ -1,13 +1,18 @@
 html {
 background-color: white;
 
+.wrapper{
+    text-align: center;
 }
+
 
 #button{
 margin:auto;
+position:absolute;
+    top:50%;
 
  }
-div#main {
+p#main {
   text-align: center;
   width: 50%;
   margin: auto;
