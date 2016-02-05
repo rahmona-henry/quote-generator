@@ -19,7 +19,7 @@ $(document).ready(function() {
   }
 
   $("#button").on("click", function () {
-    $('#main').css('background-color', randomColor());
+    $('#quote').css('background-color', randomColor());
   });
 
 });
