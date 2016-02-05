@@ -2,6 +2,26 @@ html {
 color: white;
 }
 
+body { 
+  background: url("https://s3-eu-west-1.amazonaws.com/arukomp-sample-app/uploads/6654202641_f64d5d427d_o.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #displaybox{
  width: 500px;
