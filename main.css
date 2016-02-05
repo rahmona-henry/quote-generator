@@ -3,7 +3,7 @@ color: white;
 }
 
 
-.displaybox{
+#displaybox{
  width: 500px;
  height: 300px;
  margin: 10px auto;  /*centers the calculator in the browser window*/
@@ -13,13 +13,8 @@ color: white;
  border-radius: 10px;
  }
 
- .button-primary {
+ #button{
 margin:10px auto;
 
  }
 
- #display {
-text-align:center;
-padding:130px;
-margin:auto;
- }
