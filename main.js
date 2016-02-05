@@ -3,7 +3,7 @@ $(document).ready(function() {
   var quotes = ['hello', 'goodbye', 'dia duit', 'slan']; 
   
 
-  var button = document.getElementById('button button-orange');
+  var button = document.getElementById('button');
 
   function reply_click(){
     var random = Math.floor(Math.random() * quotes.length)
@@ -13,7 +13,7 @@ $(document).ready(function() {
   button.onclick = function() { reply_click(); }
 
 
-   $("button").toggle(
+   $'button').toggle(
     function(){$("p").css({"color": "red"});},
     function(){$("p").css({"color": "blue"});},
     function(){$("p").css({"color": "green"});
