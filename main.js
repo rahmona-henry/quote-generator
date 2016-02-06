@@ -19,7 +19,7 @@ $(document).ready(function() {
   }
 
   $("#button").on("click", function () {
-    $('background-color').css('background-color', randomColor());
+    $('body').css('background-color', randomColor());
   });
 
 });
