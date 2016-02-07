@@ -29,7 +29,7 @@ h1 {
   text-shadow:0px 0px 15px #fff ;
 }
 
-#quote p {
+#quote  {
   height: auto;
   width: auto;
   padding: 1em;
@@ -38,5 +38,4 @@ h1 {
   font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
   font-size: 1.5em;
   text-shadow: 0px 0px 15px #fff;
-  color: white;
-}
+  }
