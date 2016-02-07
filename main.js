@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var quotes = ['hello', 'goodbye', 'dia duit', 'slan']; 
+  var quotes = ['"Give me a firm spot on which to stand and I shall move the earth - Archimedes 287-212 BC"', 'goodbye', 'dia duit', 'slan']; 
   
 
   var button = document.getElementById('button');
