@@ -1,34 +1,41 @@
 html {
-}
-#button {
-  display: block;
-  margin: auto;
-  position: absolute;
-  text-shadow: 0 0 15px #fff;    
-  top: 50%;
- }
 
+
+}
+/*#wrapper {
+    text-align: center;
+}*//
+
+
+#button{
+margin:auto;
+display:block;
+position:absolute;
+top:50%;
+text-shadow: 0px 0px 15px #fff;    
+
+ }
 #main {
-  margin: auto;
   text-align: center;
   width: 100%;
+  margin: auto;
 }
 
 h1 {
+  margin-top: 50px;
+  margin-bottom: 50px;
   font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
   font-size: 3em;
-  margin-bottom: 50px;
-  margin-top: 50px;
-  text-shadow:0 0 15px #fff ;
+  text-shadow:0px 0px 15px #fff ;
 }
 
 #quote {
+  height: auto;
+  width: auto;
+  padding: 1em;
+  vertical-align: middle;
+  margin: auto;
   font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
   font-size: 2.5em;
-  height: auto;
-  margin: auto;
-  padding: 1em;
-  text-shadow: 0 0 15px #fff;
-  vertical-align: middle;
-  width: auto;
+  text-shadow: 0px 0px 15px #fff;
 }
