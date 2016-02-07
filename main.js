@@ -8,8 +8,8 @@ $(document).ready(function() {
                 '"If we all did the things we are capable of, we would astound ourselves" - Thomas Edison',
                 '"Even a mistake may turn out to be the one thing necessary to a worthwhile achievement" - Henry Ford',
                 '"If you are working on something exciting, that you really care about, you dont have to be pushed" -Steve Jobs',
-                '"Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” ― Alan Turing'
-                '"Creativity is intelligence having fun"- Albert Einstein'
+                '"Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” ― Alan Turing',
+                '"Creativity is intelligence having fun"- Albert Einstein',
                 '"I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success."-Nikola Tesla',
                  ]; 
   
