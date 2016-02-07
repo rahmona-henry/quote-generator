@@ -36,8 +36,8 @@ $(document).ready(function() {
 //Math.random()*256 gets a random (floating point) number from 0 to 256 (0 to 255 inclusive)
 //Using .toString(16) converts this number to hexadecimal (base 16).
   function randomColour() {
-    return '#'+Math.floor(Math.random()*16777215).toString(16);
-    //return '#' + Math.random().toString(16).slice(2, 8);
+    
+    return '#' + Math.random().toString(16).slice(2, 8);
   }
 
   $("#button").on("click", function () {
@@ -46,4 +46,3 @@ $(document).ready(function() {
 
 });
 
-'#'+Math.floor(Math.random()*16777215).toString(16);
